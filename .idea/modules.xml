@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Module 2/Builder Design Pattern/Builder Design Pattern.iml" filepath="$PROJECT_DIR$/Module 2/Builder Design Pattern/Builder Design Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module 2/Factory Design Pattern/Factory Design Pattern.iml" filepath="$PROJECT_DIR$/Module 2/Factory Design Pattern/Factory Design Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module 2/Immutable Object Pattern/Immutable Object Pattern.iml" filepath="$PROJECT_DIR$/Module 2/Immutable Object Pattern/Immutable Object Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module 1/Module 1.iml" filepath="$PROJECT_DIR$/Module 1/Module 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module 2/Singelton Pattern/Singelton Pattern.iml" filepath="$PROJECT_DIR$/Module 2/Singelton Pattern/Singelton Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-boot-samples.iml" filepath="$PROJECT_DIR$/.idea/spring-boot-samples.iml" />
+    </modules>
+  </component>
+</project>
