@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac1f8aa6-2d56-4f94-8281-ea14b8f44e5a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Collections/Queue/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/Queue/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Collections/Queue/src/Application2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/Queue/src/Application2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Collections/Set/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/Set/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Collections/Set/out/production/Set/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/Set/out/production/Set/Application.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Collections/Set/src/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/Set/src/Application.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Laptop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Laptop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
