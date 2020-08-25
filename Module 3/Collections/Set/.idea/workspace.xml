@@ -2,27 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74c0838e-d3b8-4730-913f-2a69bcc9e204" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../.idea/Module 3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Bounds WildCards Examples/Bounds WildCards Examples.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../List/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../List/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../List/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../List/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../List/List.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../List/out/production/List/Application.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../List/src/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsTestFinder.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Set.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Set/Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Set/Application.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Wildcards Bounds/Wildcards Bounds.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Queue/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Queue/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Queue/src/Application2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Queue/src/Application2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Set/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Set/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Comparable and Comparator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Comparable and Comparator/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +35,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -87,21 +73,21 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1598158421654" />
-    <state width="1876" height="282" key="GridCell.Tab.0.bottom" timestamp="1598159416175">
+    <state width="1876" height="282" key="GridCell.Tab.0.bottom" timestamp="1598291982625">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598159416175" />
-    <state width="1876" height="282" key="GridCell.Tab.0.center" timestamp="1598159416175">
+    <state width="1876" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598291982625" />
+    <state width="1876" height="282" key="GridCell.Tab.0.center" timestamp="1598291982624">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598159416175" />
-    <state width="1876" height="282" key="GridCell.Tab.0.left" timestamp="1598159416175">
+    <state width="1876" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598291982624" />
+    <state width="1876" height="282" key="GridCell.Tab.0.left" timestamp="1598291982624">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598159416175" />
-    <state width="1876" height="282" key="GridCell.Tab.0.right" timestamp="1598159416175">
+    <state width="1876" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598291982624" />
+    <state width="1876" height="282" key="GridCell.Tab.0.right" timestamp="1598291982625">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598159416175" />
+    <state width="1876" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598291982625" />
   </component>
 </project>

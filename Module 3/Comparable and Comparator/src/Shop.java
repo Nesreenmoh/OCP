@@ -1,7 +1,4 @@
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Comparator;
-import java.util.List;
+import java.util.*;
 
 public class Shop {
 
@@ -30,6 +27,7 @@ public class Shop {
         };
         Collections.sort(laptops, comparator);
         laptops.forEach(System.out::println);
+       
     }
 
 }

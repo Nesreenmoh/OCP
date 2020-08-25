@@ -1,7 +1,6 @@
-import java.util.HashSet;
-import java.util.NavigableSet;
-import java.util.Set;
-import java.util.TreeSet;
+import com.sun.source.tree.WhileLoopTree;
+
+import java.util.*;
 
 /*
 Set interface does not allow duplication
@@ -41,6 +40,15 @@ public class Application {
         animals.add(new Animal(14, "Horse"));
 
         System.out.println(animals);
+
+        Set<Number> numbers =  new HashSet<>();
+        numbers.add(new Integer(86));
+        numbers.add(75);
+        numbers.add(new Integer(86));
+        numbers.add(null);
+        numbers.add(309L);
+        Iterator iter=numbers.iterator();
+        while( iter.hasNext()) System.out.println(iter.next());
 
     }
 

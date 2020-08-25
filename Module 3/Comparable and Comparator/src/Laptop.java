@@ -1,11 +1,11 @@
-
+import java.util.Comparator;
 
 /*
 make the class implement the interface Comparable<ClassName> and define the generic type of this class
 implement the compareTo method to take object of this class
 CompareTo has one Object only to be pass and will be compare with the current class object with this.
  */
-public class Laptop implements Comparable <Laptop>{
+public class Laptop implements Comparable <Laptop>, Comparator {
     private String name;
     private int ram;
     private int price;
@@ -55,5 +55,10 @@ public class Laptop implements Comparable <Laptop>{
         if(this.price>laptop.price) return 1;
         else if (this.price<laptop.price) return -1;
         else return 0;
+    }
+
+    @Override
+    public int compare(Object o, Object t1) {
+        return 0;
     }
 }

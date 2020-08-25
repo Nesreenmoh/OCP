@@ -1,6 +1,4 @@
-import java.util.ArrayDeque;
-import java.util.LinkedList;
-import java.util.Queue;
+import java.util.*;
 
 /*
 creating a Java interface Queue and its implementation
@@ -15,13 +13,13 @@ public class Application2 {
 
     public static void main(String[] args) {
         // define and declare a queue
-        Queue<String> queue = new LinkedList<>();
+        ArrayDeque<String> queue = new ArrayDeque<>();
 //        System.out.println(queue.element());
         // add elements returns boolean boolean add(E e)
-        queue.add("Java");
-        queue.add("JavaScript");
-        queue.add("Angular");
-        queue.add("HTML");
+        queue.push("Java");
+        queue.push("JavaScript");
+        queue.push("Angular");
+        queue.push("HTML");
 
 
         // printing a queue using foreach
@@ -33,7 +31,8 @@ public class Application2 {
         // method that add en element to the end of the queue and return boolean if successful
         // boolean offer(E e)
         queue.offer("Nesreen");
-        queue.forEach(System.out::println);
+
+       queue.forEach(System.out::println);
 
         // remove an element and return the element that has been removed
         // E remove()
@@ -49,5 +48,6 @@ public class Application2 {
         // return null if the queue is empty
         System.out.println("The peak element is "+queue.peek());
 
+      HashSet<? super ClassCastException> set = new HashSet<Exception>();
     }
 }
