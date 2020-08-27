@@ -2,36 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acd80432-3570-4663-9aa8-a095604cad5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsTestFinder.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FunctionalInterface.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/FunctionalInterface/_BiConsumer$Customer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/FunctionalInterface/_BiConsumer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/FunctionalInterface/_BiFunction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/FunctionalInterface/_BiPredicate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/FunctionalInterface/_Consumer$Customer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/FunctionalInterface/_Consumer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/FunctionalInterface/_Function.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/FunctionalInterface/_Predicate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_BiConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_BiFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_BiPredicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_Function.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_Predicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Imperative and Declarative Programming/.idea/jsTestFinder.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Imperative and Declarative Programming/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Imperative and Declarative Programming/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Imperative and Declarative Programming/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Imperative and Declarative Programming/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Imperative and Declarative Programming/ImperativeProgramming.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Imperative and Declarative Programming/out/production/ImperativeProgramming/Application$Person$Gender.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Imperative and Declarative Programming/out/production/ImperativeProgramming/Application$Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Imperative and Declarative Programming/out/production/ImperativeProgramming/Application.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Imperative and Declarative Programming/src/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FunctionalInterface/Excercises/Exercise1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FunctionalInterface/Excercises/Exercise2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Excercises/Exercise1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Excercises/Exercise2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FunctionalInterface/_Predicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FunctionalInterface/_Predicate.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,10 +41,29 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Application._BiPredicate">
-    <configuration name="Consumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Consumer" />
+  <component name="RunManager" selected="Application.Exercise2">
+    <configuration name="Exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Excercises.Exercise1" />
       <module name="FunctionalInterface" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Excercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Excercises.Exercise2" />
+      <module name="FunctionalInterface" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Excercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -87,13 +82,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_Consumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_Consumer" />
-      <module name="FunctionalInterface" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="_Predicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_Predicate" />
       <module name="FunctionalInterface" />
@@ -103,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise2" />
+        <item itemvalue="Application.Exercise1" />
         <item itemvalue="Application._BiPredicate" />
         <item itemvalue="Application._Predicate" />
         <item itemvalue="Application._BiConsumer" />
-        <item itemvalue="Application._Consumer" />
-        <item itemvalue="Application.Consumer" />
       </list>
     </recent_temporary>
   </component>
@@ -134,22 +122,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1598454479015" />
-    <state width="1876" height="282" key="GridCell.Tab.0.bottom" timestamp="1598457598702">
+    <state width="1876" height="473" key="GridCell.Tab.0.bottom" timestamp="1598540736920">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598457598702" />
-    <state width="1876" height="282" key="GridCell.Tab.0.center" timestamp="1598457598702">
+    <state width="1876" height="473" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598540736920" />
+    <state width="1876" height="473" key="GridCell.Tab.0.center" timestamp="1598540736920">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598457598702" />
-    <state width="1876" height="282" key="GridCell.Tab.0.left" timestamp="1598457598702">
+    <state width="1876" height="473" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598540736920" />
+    <state width="1876" height="473" key="GridCell.Tab.0.left" timestamp="1598540736920">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598457598702" />
-    <state width="1876" height="282" key="GridCell.Tab.0.right" timestamp="1598457598702">
+    <state width="1876" height="473" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598540736920" />
+    <state width="1876" height="473" key="GridCell.Tab.0.right" timestamp="1598540736920">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598457598702" />
+    <state width="1876" height="473" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598540736920" />
     <state x="461" y="165" key="SettingsEditor" timestamp="1598443178845">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
